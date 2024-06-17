@@ -6,7 +6,7 @@ Hades II mod allowing to do rerolls.
 
 - Wow.
 - Much cool.
-  - Very doge.
+  - Very oge.
 
 ## Install
 
